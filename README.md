@@ -26,19 +26,21 @@ For many people who didn’t grow up in or around New York City, there are a few
 What people typically don’t think about are the underprivileged communities that exist here, many of which have become home to people priced out of their old homes in brownstone Brooklyn, Williamsburg, and other neighborhoods near Manhattan. For the most part, those who work in the tech industry don’t know or think much about these types of communities. This becomes apparent when highly respected members of the tech community say things like [this](https://twitter.com/sama/status/549745218371592192):
 
 > also, when people say "we need to train more coders domestically": while that's true, anyone who wants can teach themselves to code online
-> Sam Altman [@sama](https://twitter.com/sama)
+> - [Sam Altman](https://twitter.com/sama)
 
 What Sam Altman doesn’t realize is that when he says, “anyone,” he actually means, “anyone who holds a socioeconomic status similar to mine.” Let’s talk about those who don’t fall into that category for a little bit.
 
 As I’m writing this, I’m sitting in my living room with my buddy Maurice. Maurice is a 14-year-old from a small Brooklyn neighborhood called Ocean Hill. You may have never heard of it, but it’s a subsection of the now-famous Bedford-Stuyvesant neighborhood, right next to the infamous neighborhood of Brownsville.
 
 ![maurices_home](https://s3-us-west-2.amazonaws.com/cultural-curriculum/maurices_home.jpeg)
-A common sight near Maurice’s home
+
+*A common sight near Maurice’s home*
 
 Even though we’re very different from each other, we’ve got a few things in common. For example, we both have Nuyorican mothers. We were also both raised in the New York metropolitan area in communities with a majority-minority population. However, there is one major difference between us that makes our lives almost nothing alike: Maurice’s father is a black man from Brownsville, and my father is a white man from Detroit whose family moved to the suburbs during the white flight. That difference is about all it takes to make or break someone’s chances of success in the United States.
 
 ![maurice](https://s3-us-west-2.amazonaws.com/cultural-curriculum/maurice.jpeg)
-This is Maurice!
+
+*This is Maurice!*
 
 I met Maurice on February 22nd, 2014, at a high school hackathon. Each team consisted of at least one technical mentor, at least one non-technical mentor, and a mixture of students with and without programming experience. Maurice and I ended up on the same team, where I was a technical mentor and he was one of three without any programming experience. Despite having no experience, he was extremely enthusiastic and seemed to be having quite a bit of fun at the event.
 
